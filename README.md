@@ -1,7 +1,12 @@
 # ASCII VISION
 
-![ASCII Vision Preview](src/assets/screenshot/ascii.png)
+🔗 Live Demo: https://ascii-vision-tau.vercel.app/
 
+<p align="center">
+  <img src="src/assets/screenshot/ascii.png" width="100%" />
+</p>
+
+Real-time webcam to ASCII rendering experience built with React, Vite, Canvas API, and Web Audio API.
 Real-time webcam to ASCII rendering experience built with React, Vite, Canvas API, and Web Audio API.
 
 Features:
