@@ -1,5 +1,7 @@
 # ASCII VISION
 
+![ASCII Vision Preview](src/assets/screenshot/ascii.png)
+
 Real-time webcam to ASCII rendering experience built with React, Vite, Canvas API, and Web Audio API.
 
 Features:
